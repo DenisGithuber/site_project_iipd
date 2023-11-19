@@ -1,0 +1,1 @@
+s:269:"<div class="notifytiny debuggingmessage">email_to_user: Invalid noreply-email noreply@moodle<ul style="text-align:left;"><li>line 6162 of \lib\moodlelib.php: call to debugging()</li><li>line 96 of \admin\testoutgoingmailconf.php: call to email_to_user()</li></ul></div>";
